@@ -1,0 +1,30 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "next": "^9.3.5",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-google-button": "^0.7.1",
+    "react-helmet": "^6.0.0",
+    "react-router-dom": "^5.1.2"
+  },
+  "devDependencies": {
+    "@types/gapi": "0.0.39",
+    "@types/node": "^13.11.1",
+    "@types/react": "^16.9.34",
+    "@types/react-router-dom": "^5.1.4",
+    "typescript": "^3.8.3"
+  }
+}
